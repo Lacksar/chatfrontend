@@ -5,7 +5,6 @@ function App() {
   return (
     <>
    <Button colorScheme={"blue"}>hello</Button>
-   hi
     
     
     </>
